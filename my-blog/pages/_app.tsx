@@ -1,3 +1,6 @@
+import 'normalize.css';
+import 'antd/dist/antd.css';
+
 import '../styles/global.css';
 import type { AppProps } from 'next/app';
 import Layout from '../components/layout/index';
